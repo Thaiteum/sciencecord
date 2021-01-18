@@ -1,0 +1,31 @@
+{
+  "name": "classicalcomputer",
+  "version": "1.0.0",
+  "description": "Discord bot for classical thinkers discord guild",
+  "main": "index.js",
+  "dependencies": {
+    "canvacord": "^5.0.8",
+    "discord.js": "^12.5.1",
+    "ffmpeg-static": "^4.2.7",
+    "google": "^2.1.0",
+    "mathjs": "^8.1.1",
+    "quick.db": "^7.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thaiteum/classical-computer.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "Thai tea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thaiteum/classical-computer/issues"
+  },
+  "homepage": "https://github.com/Thaiteum/classical-computer#readme"
+}
